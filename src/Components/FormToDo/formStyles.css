@@ -1,22 +1,25 @@
 .list-title {
     font-size: 2rem;
     color: black;
+    font-family: 'Sniglet', cursive;
 }
 
 .todo-list {
     background: #fff;
     font-size: 15px;
+    font-family: 'Sniglet', cursive;
     max-width: 300px;
     margin: auto;
     margin-bottom: 20px;
     padding: 8px 16px;
     box-shadow: 0 5px 30px rgba(0, 0, 0, 0.2);
-    }
+}
 
 .text {
     margin: 2%;
     padding: 1%;
     width: 65%;
+    font-family: 'Sniglet', cursive;
 }
 
 .button-pink {
@@ -27,4 +30,5 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    font-family: 'Sniglet', cursive;
 }

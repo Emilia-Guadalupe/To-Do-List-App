@@ -1,4 +1,4 @@
-.button-blue {
+.button-red {
     padding: 2.5%;
     background-color: #eb3434;
     color: white;
@@ -7,4 +7,5 @@
     border: none;
     cursor: pointer;
     width: 8rem;
+    font-family: 'Sniglet', cursive;
 }
