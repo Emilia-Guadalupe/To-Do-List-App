@@ -1,0 +1,10 @@
+.button-blue {
+    padding: 2.5%;
+    background-color: #eb3434;
+    color: white;
+    border-radius: 5px;
+    box-shadow: none;
+    border: none;
+    cursor: pointer;
+    width: 8rem;
+}
