@@ -11,7 +11,7 @@ function Checkbox(props){
     return(
         <Fragment>
 
-            <label className="todo new-item">
+            <label className="todo new-item" data-content={description}>
                 <input className="todo__state" name={id} type="checkbox" defaultChecked={done} onChange={onChange} />
 
             <div className="todo__text">{description}</div>

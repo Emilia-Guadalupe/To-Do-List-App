@@ -31,7 +31,7 @@ function TaskList(props){
 			{/*(B)*/}
 			{list.length ? (
 				<p>
-					<button className="button-blue" onClick={onClickRemoveItem}>
+					<button className="button-red" onClick={onClickRemoveItem}>
 						Delete all done
 					</button>
 				</p>
