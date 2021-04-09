@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+## What do you need to start? 
+
+You'll need to install this dependencies: 
+- node-sass: 5.0.0
+
+You can try the list here: https://inspiring-wright-0c51b2.netlify.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
