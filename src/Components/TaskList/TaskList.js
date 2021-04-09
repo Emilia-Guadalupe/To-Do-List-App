@@ -1,5 +1,6 @@
 import React from 'react';
 import Checkbox from '../Checkbox/Checkbox';
+import './taskList.css';
 
 function TaskList(props){
     const {list, setList} = props;
@@ -30,7 +31,7 @@ function TaskList(props){
 			{/*(B)*/}
 			{list.length ? (
 				<p>
-					<button className="button blue" onClick={onClickRemoveItem}>
+					<button className="button-blue" onClick={onClickRemoveItem}>
 						Delete all done
 					</button>
 				</p>
